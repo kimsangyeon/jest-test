@@ -1,0 +1,26 @@
+{
+  "name": "jest-test",
+  "version": "1.0.0",
+  "description": "Jest is a delightful JavaScript Testing Framework with a focus on simplicity. <br> It works with projects using: Babel, TypeScript, Node, React, Angular, Vue and more! <br>",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimsangyeon/jest-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimsangyeon/jest-test/issues"
+  },
+  "homepage": "https://github.com/kimsangyeon/jest-test#readme"
+}
